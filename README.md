@@ -11,7 +11,7 @@ This is an example email fixer app using OpenAI API. You give it an email an it 
 3. Navigate into the project directory
 
    ```bash
-   $ cd chatgptdemo
+   $ cd EmailFixer
    ```
 
 4. Make a copy of the example environment variables file
